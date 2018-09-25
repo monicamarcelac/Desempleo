@@ -1,0 +1,68 @@
+.h1
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      40px;
+    font-weight:    bold;
+    text-align:     center;
+    letter-spacing: 3px;
+}
+
+.h2
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      20px;
+    font-weight:    bold;
+    text-align:     center;
+}
+
+.h3
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      25px;
+    font-weight:    bold;
+    text-align:     center;
+}
+
+
+.t1
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      13px;
+    font-weight:    normal;
+    text-align:     justify;
+}
+
+.t2
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      14px;
+    font-weight:    normal;
+    text-align:     justify;
+    letter-spacing: 3px;
+}
+
+.t3
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      14.5px;
+    font-weight:    bold;
+    text-align:     center;
+    letter-spacing: 1px;
+    font-style:     italic
+}
+
+.centerIma {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.link
+{
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      10px;
+    font-weight:    normal;
+    text-align:     justify;
+    letter-spacing: 1.2px;
+}
